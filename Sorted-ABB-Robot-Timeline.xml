@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<HISTORY>
+    <IRB>
+        <ROBOTTYPE>IRB 1400</ROBOTTYPE>
+        <YEAR>1994</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 2400</ROBOTTYPE>
+        <YEAR>1994</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6400</ROBOTTYPE>
+        <YEAR>1994</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 4400</ROBOTTYPE>
+        <YEAR>1995</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 640</ROBOTTYPE>
+        <YEAR>1997</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 340</ROBOTTYPE>
+        <YEAR>1998</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 540</ROBOTTYPE>
+        <YEAR>1999</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6400R</ROBOTTYPE>
+        <YEAR>1999</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 140</ROBOTTYPE>
+        <YEAR>2000</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 5400</ROBOTTYPE>
+        <YEAR>2000</YEAR>
+        <SISSUPPORTED>Beta</SISSUPPORTED>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 7600</ROBOTTYPE>
+        <YEAR>2000</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 580</ROBOTTYPE>
+        <YEAR>2001</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6600</ROBOTTYPE>
+        <YEAR>2002</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6650S</ROBOTTYPE>
+        <YEAR>2004</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1600</ROBOTTYPE>
+        <YEAR>2005</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 260</ROBOTTYPE>
+        <YEAR>2006</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 660</ROBOTTYPE>
+        <YEAR>2006</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1600ID</ROBOTTYPE>
+        <YEAR>2007</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6620</ROBOTTYPE>
+        <YEAR>2007</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6640</ROBOTTYPE>
+        <YEAR>2007</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 52</ROBOTTYPE>
+        <YEAR>2008</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 360</ROBOTTYPE>
+        <YEAR>2008</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 4600</ROBOTTYPE>
+        <YEAR>2008</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 120</ROBOTTYPE>
+        <YEAR>2009</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 2600</ROBOTTYPE>
+        <YEAR>2009</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6660</ROBOTTYPE>
+        <YEAR>2009</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 2600ID</ROBOTTYPE>
+        <YEAR>2010</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6620LX</ROBOTTYPE>
+        <YEAR>2010</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1410</ROBOTTYPE>
+        <YEAR>2011</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 460</ROBOTTYPE>
+        <YEAR>2011</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 760</ROBOTTYPE>
+        <YEAR>2011</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1600-10</ROBOTTYPE>
+        <YEAR>2013</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 5500</ROBOTTYPE>
+        <YEAR>2013</YEAR>
+        <SISSUPPORTED>Beta</SISSUPPORTED>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6700</ROBOTTYPE>
+        <YEAR>2013</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1200</ROBOTTYPE>
+        <YEAR>2014</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 910SC</ROBOTTYPE>
+        <YEAR>2015</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 8700</ROBOTTYPE>
+        <YEAR>2015</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 14000</ROBOTTYPE>
+        <YEAR>2015</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1660ID</ROBOTTYPE>
+        <YEAR>2016</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 14050</ROBOTTYPE>
+        <YEAR>2018</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1100</ROBOTTYPE>
+        <YEAR>2019</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1300</ROBOTTYPE>
+        <YEAR>2020</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 920</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 365</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 390</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 5710</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 5720</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>CRB 15000</ROBOTTYPE>
+        <YEAR>2021</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1010</ROBOTTYPE>
+        <YEAR>2022</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6790</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6710</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6720</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6730</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 6740</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 1090</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 930</ROBOTTYPE>
+        <YEAR>2023</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 7710</ROBOTTYPE>
+        <YEAR>2024</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 7720</ROBOTTYPE>
+        <YEAR>2024</YEAR>
+    </IRB>
+</HISTORY>
