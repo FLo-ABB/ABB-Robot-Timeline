@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <HISTORY>
     <IRB>
+        <ROBOTTYPE>IRB 6</ROBOTTYPE>
+        <YEAR>1974</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 60</ROBOTTYPE>
+        <YEAR>1979</YEAR>
+    </IRB>
+    <IRB>
+        <ROBOTTYPE>IRB 2000</ROBOTTYPE>
+        <YEAR>1986</YEAR>
+    </IRB>
+    <IRB>
         <ROBOTTYPE>IRB 1400</ROBOTTYPE>
         <YEAR>1994</YEAR>
     </IRB>
