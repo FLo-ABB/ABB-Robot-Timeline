@@ -4,10 +4,22 @@
         <ROBOTTYPE>IRB 6</ROBOTTYPE>
         <YEAR>1974</YEAR>
     </IRB>
+    <IRC>
+        <CONTROLLER>S1</CONTROLLER>
+        <YEAR>1974</YEAR>
+    </IRC>
     <IRB>
         <ROBOTTYPE>IRB 60</ROBOTTYPE>
         <YEAR>1979</YEAR>
     </IRB>
+    <IRC>
+        <CONTROLLER>S2</CONTROLLER>
+        <YEAR>1980</YEAR>
+    </IRC>
+    <IRC>
+        <CONTROLLER>S3</CONTROLLER>
+        <YEAR>1985</YEAR>
+    </IRC>
     <IRB>
         <ROBOTTYPE>IRB 2000</ROBOTTYPE>
         <YEAR>1986</YEAR>
@@ -16,6 +28,10 @@
         <ROBOTTYPE>IRB 1400</ROBOTTYPE>
         <YEAR>1994</YEAR>
     </IRB>
+    <IRC>
+        <CONTROLLER>S4</CONTROLLER>
+        <YEAR>1994</YEAR>
+    </IRC>
     <IRB>
         <ROBOTTYPE>IRB 2400</ROBOTTYPE>
         <YEAR>1994</YEAR>
@@ -68,6 +84,10 @@
         <ROBOTTYPE>IRB 6650S</ROBOTTYPE>
         <YEAR>2004</YEAR>
     </IRB>
+    <IRC>
+        <CONTROLLER>IRC5</CONTROLLER>
+        <YEAR>2004</YEAR>
+    </IRC>
     <IRB>
         <ROBOTTYPE>IRB 1600</ROBOTTYPE>
         <YEAR>2005</YEAR>
@@ -172,6 +192,10 @@
         <ROBOTTYPE>IRB 14050</ROBOTTYPE>
         <YEAR>2018</YEAR>
     </IRB>
+    <IRC>
+        <CONTROLLER>OmniCore</CONTROLLER>
+        <YEAR>2018</YEAR>
+    </IRC>
     <IRB>
         <ROBOTTYPE>IRB 1100</ROBOTTYPE>
         <YEAR>2019</YEAR>
